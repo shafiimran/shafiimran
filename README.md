@@ -2,8 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=true&text=hi%F0%9F%91%8Bi'm%20shafi%20imran&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shafiimran&color=blue&style=for-the-badge)
-
 ## Aspiring Data Scientist
 - 🔭 I'm currently working on Data Science & ML projects
 - 🌱 I'm currently learning Machine Learning
@@ -58,6 +56,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shafiimran/shafiimran/output/pacman-contribution-graph.svg">
 </picture>
 
+![Profile Views](https://komarev.com/ghpvc/?username=shafiimran&color=blue&style=for-the-badge)
 ##
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&text=Lets%20Connect&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
