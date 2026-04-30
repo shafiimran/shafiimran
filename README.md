@@ -12,11 +12,11 @@
 
 ## socials
 <p align="left">
-<a href="https://github.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shafiimran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiimran" height="30" width="40" /></a>
-<a href="https://kaggle.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shafiimran" height="30" width="40" /></a>
-<a href="https://hackerrank.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shafiimran" height="30" width="40" /></a>
-<a href="https://leetcode.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafiimran" height="30" width="40" /></a>
+<a href="https://github.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shafiimran"  width="40" /></a>
+<a href="https://linkedin.com/in/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiimran"  width="40" /></a>
+<a href="https://kaggle.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shafiimran"  width="40" /></a>
+<a href="https://hackerrank.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shafiimran"  width="40" /></a>
+<a href="https://leetcode.com/shafiimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafiimran"  width="40" /></a>
 
 </p>
 
